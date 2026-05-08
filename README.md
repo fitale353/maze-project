@@ -2,7 +2,7 @@
 
 This project generates and solves a maze using **Depth-First Search (DFS)** and **stack-based backtracking**. It visualizes how algorithms navigate grid structures to create perfect mazes (mazes with no loops and a path to every cell).
 
-## 🚀 Features
+##  Features
 * **Random Maze Generation**: Uses a recursive backtracker to create unique layouts.
 * **DFS Traversal**: Efficiently explores the grid to find a path.
 * **Stack-based Backtracking**: Keeps track of the path and retreats when it hits a dead end.
