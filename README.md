@@ -9,11 +9,11 @@ This project generates and solves a maze using **Depth-First Search (DFS)** and 
 * **Maze Solving Algorithm**: Automatically finds the shortest route from start to finish.
 
 ## 🛠 Language
-* **Python 3.x**
+* **Python **
 
 ## 💻 How to Run
-Ensure you have Python installed, then run:
-\`\`\`bash
+
+\`\`\`
 python maze.py
 \`\`\`
 
