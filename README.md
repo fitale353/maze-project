@@ -9,13 +9,13 @@ This project generates and solves a maze using **Depth-First Search (DFS)** and 
 * **Maze Solving Algorithm**: Automatically finds the shortest route from start to finish.
 
 ## 🛠 Language
-* **Python **
+* Python 
 
 ## 💻 How to Run
 
-\`\`\`
+
 python maze.py
-\`\`\`
+
 
 ## 🧠 How it Works
 The generator starts at a random cell and marks it as visited. It then moves to a random unvisited neighbor, pushing the current cell to a stack. If it hits a dead end, it pops from the stack to backtrack until it finds a cell with unvisited neighbors.
