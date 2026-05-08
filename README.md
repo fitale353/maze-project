@@ -8,7 +8,7 @@ This project generates and solves a maze using **Depth-First Search (DFS)** and 
 * **Stack-based Backtracking**: Keeps track of the path and retreats when it hits a dead end.
 * **Maze Solving Algorithm**: Automatically finds the shortest route from start to finish.
 
-## 🛠 Language
+##  Language
 * Python 
 
 ## 💻 How to Run
